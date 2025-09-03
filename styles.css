@@ -5,7 +5,7 @@
 
     /* Before pseudo-element */
     #container::before {
-      content: "This is before content ";
+      content: "Before Eelement";
       color: #f00;
       font-size: 20px;
 
@@ -13,7 +13,7 @@
 
     /* After pseudo-element */
     #container::after {
-      content: " This is after content";
+      content: "After Eelement";
       color: #f00;
       font-size: 20px;
 
